@@ -1,0 +1,3 @@
+# FruitsClassifierML
+This was a simple model I trained on eight different types of fruits with 20 items each . The model was laiter used to predict the class 
+of a fruit that was fed to it to classify it amonst the 8 groups . The model performed pretty well 
